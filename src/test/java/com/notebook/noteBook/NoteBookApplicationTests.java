@@ -8,6 +8,7 @@ class NoteBookApplicationTests {
 
 	@Test
 	void contextLoads() {
+
 	}
 
 }
